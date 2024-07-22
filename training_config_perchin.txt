@@ -1,0 +1,2 @@
+Epochs: 10
+Gradient Accumulation Steps: 1
